@@ -9,13 +9,15 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.15.1
 MarkupSafe==1.1.1
-numpy==1.18.1
+numpy==1.21.4
 pandas==1.1.1
 python-dateutil==2.8.1
 pytz==2019.3
-scikit-learn==0.22.1
+scikit-learn==0.22.2
 scipy==1.7.3
 six==1.14.0
 virtualenv==20.0.7
 Werkzeug==1.0.1
 wincertstore==0.2
+
+
